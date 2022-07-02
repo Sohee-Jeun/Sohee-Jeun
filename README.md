@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sohee-Jeun
-- 👀 I’m interested in 
-- 🌱 I’m currently learning overall Frontend things
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Sohee
+- 👀 I’m interested in Front-end development.
+- 🌱 I’m currently learning overall Frontend things.
 - 📫 How to reach me ...
 
 <!---
