@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
     
 ## 🛠 Tools 🛠
- <img src="https://img.shields.io/badge/Visual Studio Code-#007ACC?style=for-the-badge&logo=appveyor&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Visual-Studio-Code-#007ACC?style=for-the-badge&logo=appveyor&logoColor=white"/> 
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 <!---
